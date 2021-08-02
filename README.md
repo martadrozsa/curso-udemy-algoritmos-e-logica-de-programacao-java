@@ -1,1 +1,1 @@
-# curso-udemy-algoritmos-logica-de-programacao-java
+# curso-udemy-algoritmos-e-logica-de-programacao-java
